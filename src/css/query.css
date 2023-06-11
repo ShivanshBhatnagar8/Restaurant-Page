@@ -90,7 +90,7 @@
     margin-left: 3rem;
   }
   .contact-box h4 {
-    font-size: 2.6rem;
+    font-size: 2rem;
     font-weight: 500;
   }
 }
@@ -99,12 +99,12 @@
     font-size: 36%;
   }
   .contact-box h4 {
-    font-size: 2rem;
+    font-size: 1.6rem;
     font-weight: 400;
   }
 }
 @media (max-width: 19em) {
   html {
-    font-size: 30%;
+    font-size: 28%;
   }
 }
